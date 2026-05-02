@@ -1,7 +1,5 @@
 # 🖱️ AI Virtual Mouse — Hand Sign
 
-![Virtual Mouse Banner](assets/virtual_mouse_banner.png)
-
 ## 🌟 Overview
 **AI Virtual Mouse** is a cutting-edge computer vision project that allows you to control your computer using simple hand gestures. Leveraging the power of **MediaPipe** and **OpenCV**, this application transforms your webcam into a high-precision gesture controller, eliminating the need for a physical mouse.
 
